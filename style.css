@@ -1,0 +1,79 @@
+html{
+    font-family: fantasy;
+}
+#navHeader{
+    
+        background-color: teal;
+        height: 130px;
+    
+}
+
+#spanHeader ul li {
+    display: inline;
+    margin: 13px;
+    color: white;
+;
+}
+
+
+#spanHeader{
+    text-align: center;
+position: absolute;
+top: 6%;
+left: 30%;
+}
+#imgHeader{
+margin-left: 200px;
+margin-top: 15px;}
+#imgMiddle{
+    margin-top: 50px;
+    margin-left: 70px;
+    margin-bottom: 50px;
+
+
+
+}
+ #spanMiddle{
+     margin-left: 130px;
+} 
+#lastImg{
+    float: right;
+    margin-right: 172px;
+}
+#p{  overflow: visible;
+    width: 500px;
+    height: 250px;
+position: absolute;
+left:15%;
+overflow: auto    ;
+margin-bottom:50px ;
+
+}
+#input{
+    position: absolute;
+    top: 150%;
+    left: 189px;
+    width: 985px;
+    margin-bottom: 50px;
+
+}
+#submit{
+    margin-left: 100px;
+}
+#text{
+    width: 700px;
+}
+
+footer{
+    
+        background-color: teal;
+        height: 130px;
+margin-top: 400px;    
+
+}
+#copy{
+position: absolute    ;
+top: 1130px;
+left: 630px;
+color: white;
+}
